@@ -1,0 +1,20 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.sample
+.streamlit/secrets.toml
+
+# Virtual environments
+.venv/
+venv/
+
+# Python caches
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

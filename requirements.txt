@@ -1,0 +1,5 @@
+# Requires Python 3.11+
+pandas==3.0.6
+google-genai==2.26.0
+python-dotenv==1.2.3
+streamlit==1.64.0
